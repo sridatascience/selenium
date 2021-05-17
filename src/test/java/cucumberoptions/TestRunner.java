@@ -2,7 +2,7 @@ package cucumberoptions;
 
 
 import io.cucumber.junit.CucumberOptions;
-//import io.cucumber.testng.AbstractTestNGCucumberTests;
+
 
 import io.cucumber.junit.Cucumber;
 import org.junit.runner.RunWith;
@@ -17,6 +17,3 @@ public class TestRunner{
 }
 
 
-//public class TestRunner extends AbstractTestNGCucumberTests {
-//
-//}
