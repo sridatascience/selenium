@@ -1,0 +1,8 @@
+15:05:05.336 [main] INFO  Academy.validateNavBar - Successfully navigaged to home page
+15:05:05.427 [main] INFO  Academy.validateNavBar - Navigation bar displayed
+15:05:05.728 [main] INFO  Academy.validateNavBar - Driver is Closed
+15:05:06.721 [main] INFO  Academy.HomePage - Driver is Initialized
+15:05:13.170 [main] INFO  Academy.HomePage - Log Button clicked
+15:05:13.307 [main] INFO  Academy.HomePage - Email id filled
+15:05:13.408 [main] INFO  Academy.HomePage - Password filled
+15:05:13.409 [main] INFO  Academy.HomePage - restircted user1
